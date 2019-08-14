@@ -1,0 +1,30 @@
+.PrimaryColor-container {
+  border: 1px solid black;
+  height: 200px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.PrimaryColor-align {
+  align-self: center;
+  font-size: 30px;
+  margin: 0 0 10px 0;
+}
+
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+
+.PrimaryColor-random {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}

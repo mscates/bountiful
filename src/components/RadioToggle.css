@@ -1,0 +1,12 @@
+li {
+  list-style: none;
+}
+
+.RadioToggle-ulposition {
+  margin: 0;
+  padding: 0;
+}
+
+.RadioToggle-palign {
+  margin-bottom: 5px;
+}
